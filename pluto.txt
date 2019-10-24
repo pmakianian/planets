@@ -6,4 +6,4 @@ Its been nice meeting you today.
 trying to create a conflict!!
 >>>>>>> d822c2ad2ef0cc7bbc42b458f10e633592826ef1
 o we did it
-
+testing conflict
